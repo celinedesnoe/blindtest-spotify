@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blindtest-spotify/static/css/main.7c714b3b.chunk.css",
-    "main.js": "/blindtest-spotify/static/js/main.cd7a001a.chunk.js",
-    "main.js.map": "/blindtest-spotify/static/js/main.cd7a001a.chunk.js.map",
+    "main.js": "/blindtest-spotify/static/js/main.0385b485.chunk.js",
+    "main.js.map": "/blindtest-spotify/static/js/main.0385b485.chunk.js.map",
     "runtime-main.js": "/blindtest-spotify/static/js/runtime-main.07f395c8.js",
     "runtime-main.js.map": "/blindtest-spotify/static/js/runtime-main.07f395c8.js.map",
-    "static/js/2.88605e05.chunk.js": "/blindtest-spotify/static/js/2.88605e05.chunk.js",
-    "static/js/2.88605e05.chunk.js.map": "/blindtest-spotify/static/js/2.88605e05.chunk.js.map",
+    "static/js/2.3df8ad22.chunk.js": "/blindtest-spotify/static/js/2.3df8ad22.chunk.js",
+    "static/js/2.3df8ad22.chunk.js.map": "/blindtest-spotify/static/js/2.3df8ad22.chunk.js.map",
     "index.html": "/blindtest-spotify/index.html",
-    "precache-manifest.af1d10f296fb8bac425bec0e56195ae1.js": "/blindtest-spotify/precache-manifest.af1d10f296fb8bac425bec0e56195ae1.js",
+    "precache-manifest.fb19eb276077d6bca0d72dd8f0a11cb6.js": "/blindtest-spotify/precache-manifest.fb19eb276077d6bca0d72dd8f0a11cb6.js",
     "service-worker.js": "/blindtest-spotify/service-worker.js",
     "static/css/main.7c714b3b.chunk.css.map": "/blindtest-spotify/static/css/main.7c714b3b.chunk.css.map",
     "static/media/loading.svg": "/blindtest-spotify/static/media/loading.9d4cbf40.svg",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.07f395c8.js",
-    "static/js/2.88605e05.chunk.js",
+    "static/js/2.3df8ad22.chunk.js",
     "static/css/main.7c714b3b.chunk.css",
-    "static/js/main.cd7a001a.chunk.js"
+    "static/js/main.0385b485.chunk.js"
   ]
 }
