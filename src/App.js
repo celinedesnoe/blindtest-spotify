@@ -42,7 +42,7 @@ class App extends Component {
           <h1 className="App-title">Bienvenue sur le Blindtest</h1>
         </header>
         <div className="App-images">
-          <p>Il va falloir modifier le code pour faire un vrai Blindtest !</p>
+          <p>C'est parti pour coder...</p>
         </div>
         <div className="App-buttons">
         </div>
